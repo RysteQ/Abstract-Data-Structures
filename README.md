@@ -2,14 +2,14 @@
 
 ---
 
-This repository contains two, very simple, [abstract data types](https://en.wikipedia.org/wiki/Abstract_data_type). These two ADT's are the most **basic** (in my opinion) ADT's out there that everyone should know how they, at the very least, work.
+This repository contains two, very simple, [abstract data types](https://en.wikipedia.org/wiki/Abstract_data_type) implemented in the C programming language. These two ADT's are the most **basic** (in my opinion) ADT's out there that everyone should know how they, at the very least, work.
 
 #### Those abstract data types are:
 
 * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 
-**I have included the programs for the ADT's written in the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)).*
+**I have included the programs for the ADS's written in the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)).*
 
 ---
 
